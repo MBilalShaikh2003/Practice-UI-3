@@ -1,0 +1,171 @@
+body{
+    
+}
+.head{
+    display: flex;
+    justify-content:space-around;
+    background-color: #ECECEC;
+    
+
+}
+.subhead{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+}
+.btnhead
+{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.logohead{
+    display: flex;
+    align-items: center;
+    
+}
+.signup{
+    color:#007E85;
+}
+.btn1{
+ border-radius: 8px;
+ background-color: #007E85;
+ color: white;
+ border: #007E85;
+ height: 30px;
+ width: 100px;   
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+    
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: 
+    #ECECEC;
+}
+.para2{
+    margin-top: 20px;
+}
+.submain1{
+    display: flex;
+    gap: 30px;
+    margin-top: 60px;
+}
+.watchvideo{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.ytlogo{
+    height: 25px;
+}
+.doctor{
+    height: 400px;
+    
+}
+.btn2{
+    border-radius: 8px;
+    background-color: #007E85;
+    color: white;
+    border: #007E85;
+    height: 30px;
+    width: 140px;   
+   }
+.input{
+    margin-top: 20px;
+    background-color: white;
+    width: 700px;
+    height: 100px;
+    padding-right: 30px;
+}
+.inputsub{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    padding-left: 4%;
+    align-items: center;
+}
+.heading{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.tag{
+    height: 20px;
+    width: 200px;
+}
+.rect{
+    height: 15px;
+}
+.main2{
+
+    background-color: 
+    #ECECEC;
+    
+    height: 200px;
+}
+.stats{
+    display: flex;
+    gap: 70px;
+    align-items: center;
+    justify-content: center;
+    margin-top: -70px;
+}
+
+.para3{
+    color:#007E85;
+    font-size: 50px;
+}
+.number{
+    text-align: center;
+}
+.para4{
+    font-size: 20px;
+    margin-top: -70px;
+}
+.main3{
+    display: flex;
+    background-color: 
+    #ECECEC;
+    justify-content: space-between;
+    
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    gap: 30px;
+}
+.btndiv{
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+}
+.opr{
+    height: 300px;
+
+}
+.btn3{
+    border-radius: 16px;
+    background-color: #007E85;
+    color: white;
+    border: #007E85;
+    height: 30px;
+    width: 100px; 
+}
+.btn4{
+    border-radius: 16px;
+    background-color: white;
+    color: #007E85;
+    border:  white;
+    height: 30px;
+    width: 100px;
+}
+.para5{
+    color:#007E85;
+    font-size: 30px;
+    text-align: center;
+}
+.para6{
+    text-align: center;
+}
